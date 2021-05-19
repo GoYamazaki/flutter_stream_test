@@ -12,7 +12,7 @@ class Message {
 
   @override
   String toString() {
-    return 'AthenaMessage{type: $type, value: $value}';
+    return 'Message{type: $type, value: $value}';
   }
 }
 
